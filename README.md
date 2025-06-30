@@ -1,8 +1,9 @@
-## Hi there 👋
-🔭 I’m currently working on Data analysis and dashboard projects using Power BI, Tableau, and Excel to solve real-world business problems.
-- 🌱 I’m currently learning Scrum methodologies and SQL for data manipulation.
-- 👯 I’m looking to collaborate on Data visualization projects, process optimization initiatives, or anything that bridges tech and business.
-- 💬 Ask me about Business analytics, dashboard design, agile workflows.
+Hi there 👋
+My name is Adeola, and I’m a Business Analytics enthusiast, passionate about data, strategy, and tech-driven solutions!
+
+🛠️ I’m currently working on building interactive dashboards and business insights using Power BI, Tableau, and Excel.
+🌱 I’m currently learning Scrum, SQL, and digital marketing tools to bridge business needs with technical solutions.
+👯 I’m looking to collaborate on data analysis, agile projects, and process improvement initiatives across industries.
 - 📫 How to reach me: deolainajayi1@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/adeola-ajayi-28a405a6/.
 - ⚡ Fun fact: I can explain complex data in simple terms.
 
