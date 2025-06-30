@@ -5,7 +5,7 @@ My name is Adeola, and I’m a Business Analytics enthusiast, passionate about d
 🌱 I’m currently learning Scrum, SQL, and digital marketing tools to bridge business needs with technical solutions.
 - ⚡ Fun fact: I can explain complex data in simple terms.
 - 👯 I’m looking to collaborate on data analysis, agile projects, and process improvement initiatives across industries.
-    - 📫 How to reach me: deolainajayi1@gmail.com
+    - 📫 Send ideas to deolainajayi1@gmail.com
     - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/adeola-ajayi-28a405a6/.
 
 
