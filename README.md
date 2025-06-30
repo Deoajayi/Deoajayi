@@ -1,4 +1,10 @@
 ## Hi there 👋
+🔭 I’m currently working on Data analysis and dashboard projects using Power BI, Tableau, and Excel to solve real-world business problems.
+- 🌱 I’m currently learning Scrum methodologies and SQL for data manipulation.
+- 👯 I’m looking to collaborate on Data visualization projects, process optimization initiatives, or anything that bridges tech and business.
+- 💬 Ask me about Business analytics, dashboard design, agile workflows.
+- 📫 How to reach me: deolainajayi1@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/adeola-ajayi-28a405a6/.
+- ⚡ Fun fact: I can explain complex data in simple terms.
 
 <!--
 **Deoajayi/Deoajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
